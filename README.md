@@ -6,4 +6,5 @@
 ### Linguagens 📚:
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,mysql)](https://skillicons.dev)
        
-### Ferramentas 🛠️:[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,bootstrap,ps)](https://skillicons.dev)
+### Ferramentas 🛠️:
+[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,bootstrap,ps)](https://skillicons.dev)
