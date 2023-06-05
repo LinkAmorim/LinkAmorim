@@ -4,7 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LinkAmorim&&show_icons=true&theme=dark)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinkAmorim&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Linguagens 📚:
+### Skills 📚:
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,mysql)](https://skillicons.dev)
        
 ### Ferramentas 🛠️:
